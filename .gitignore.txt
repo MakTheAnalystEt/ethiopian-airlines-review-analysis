@@ -1,0 +1,8 @@
+# PDFs
+*.pdf
+
+# ZIP files
+*.zip
+
+# CSV files
+*.csv
