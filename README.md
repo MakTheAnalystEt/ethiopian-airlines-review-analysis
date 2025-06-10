@@ -9,5 +9,5 @@ This project involves scraping, cleaning, analyzing, and visualizing customer re
 - project_code/: Jupyter notebooks for sentiment analysis, modeling, and exploratory analysis
 - README.md: This file
 - requirements.txt: Python libraries required to run the project
-
+- README
 
